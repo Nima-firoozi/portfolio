@@ -22,7 +22,7 @@
 - **Main Language**: JavaScript (ES6+)
 - **Animations**: GSAP (GreenSock Animation Platform)
 - **Styling**: Tailwind CSS
--
+
  # SCREEN-SHOT
 <img src="src/ss/4.png" >
 <img src="src/ss/3.png" >
